@@ -19,7 +19,7 @@ public class Bubble_double_Sort_03 {
 
         System.out.println("Sorted array :");
         for(double num : arr){
-            System.out.print(arr + ", ");
+            System.out.print(num + ", ");
         }
 
         sc.close();
