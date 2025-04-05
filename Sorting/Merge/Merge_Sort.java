@@ -1,4 +1,4 @@
-package DSA.Sorting;
+package DSA.Sorting.Merge;
 public class Merge_Sort {
     public static void conquer(int arr[], int si, int ei, int mid) {
         int merged[] = new int[ei - si + 1];    
@@ -41,7 +41,7 @@ public class Merge_Sort {
     }
 
     public static void main(String[] args) {
-        int arr[] = {9, 2, 4, 5, 7, 3, 1};
+        int arr[] = {9, 2,50, 4, 5, 7, 3, 1 ,12 ,13};
         int n = arr.length;
 
         divide(arr, 0, n - 1);
