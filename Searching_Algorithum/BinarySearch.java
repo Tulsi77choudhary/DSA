@@ -2,7 +2,7 @@ package Searching_Algorithum;
 
 public class BinarySearch {
     static int search(int[] arr,int target){
-        // int n = arr.length;
+        
         int left = 0, right = arr.length - 1;
 
         while (left <= right) {

@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Reverce",
+            "request": "launch",
+            "mainClass": "Reverce",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_05",
+            "request": "launch",
+            "mainClass": "Sorting.Insertion.Insertion_05",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Kth_Smallest_Element",
+            "request": "launch",
+            "mainClass": "Sorting.Heap.Kth_Smallest_Element",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Kth_Largest_Element_01",
+            "request": "launch",
+            "mainClass": "Sorting.Heap.Kth_Largest_Element_01",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Instertion",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble.Instertion",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble.Bubble",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_08",
+            "request": "launch",
+            "mainClass": "Recursion_08",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_07",
+            "request": "launch",
+            "mainClass": "Recursion_07",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_10",
+            "request": "launch",
+            "mainClass": "Recursion_10",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "ReverceString",
+            "request": "launch",
+            "mainClass": "ReverceString",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_04",
+            "request": "launch",
+            "mainClass": "Recursion_04",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "recursion_03",
+            "request": "launch",
+            "mainClass": "recursion_03",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_04",
+            "request": "launch",
+            "mainClass": "Sorting.Insertion.Insertion_04",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_Sort_int_01",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble.Bubble_Sort_int_01",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Move",
+            "request": "launch",
+            "mainClass": "Move",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "HeapExample",
+            "request": "launch",
+            "mainClass": "Sorting.Heap.HeapExample",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "BubbleExample",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble.BubbleExample",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "First_Non_Repeated_02",
+            "request": "launch",
+            "mainClass": "String_Problems.First_Non_Repeated_02",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
             "name": "Vowels_and_Consonants",
             "request": "launch",
             "mainClass": "String_Problems.Vowels_and_Consonants",
