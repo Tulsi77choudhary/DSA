@@ -1,6 +1,6 @@
 package Exception_Handling;
 
-public class main{
+public class main_01{
     public static void main(String[] args) {
         int n =  12;
         int m = 2;

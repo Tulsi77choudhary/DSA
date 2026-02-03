@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountC",
+            "request": "launch",
+            "mainClass": "CountC",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Empty",
+            "request": "launch",
+            "mainClass": "Empty",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "Adavance_pattern",
+            "request": "launch",
+            "mainClass": "Adavance_pattern",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
+            "name": "batterphlay_pattern",
+            "request": "launch",
+            "mainClass": "batterphlay_pattern",
+            "projectName": "DSA_2a40a16b"
+        },
+        {
+            "type": "java",
             "name": "Prime",
             "request": "launch",
             "mainClass": "Prime",
